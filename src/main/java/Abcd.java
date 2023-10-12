@@ -5,6 +5,7 @@ public class Abcd {
 		// TODO Auto-generated method stub
 		public String a;
 		System.err.print(a);
+		System.out.println(b);
 	}
 
 }
